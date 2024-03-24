@@ -1,0 +1,14 @@
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\bin\Debug\net8.0\TDE02.exe
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\bin\Debug\net8.0\TDE02.deps.json
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\bin\Debug\net8.0\TDE02.runtimeconfig.json
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\bin\Debug\net8.0\TDE02.dll
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\bin\Debug\net8.0\TDE02.pdb
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\obj\Debug\net8.0\TDE02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\obj\Debug\net8.0\TDE02.AssemblyInfoInputs.cache
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\obj\Debug\net8.0\TDE02.AssemblyInfo.cs
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\obj\Debug\net8.0\TDE02.csproj.CoreCompileInputs.cache
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\obj\Debug\net8.0\TDE02.dll
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\obj\Debug\net8.0\refint\TDE02.dll
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\obj\Debug\net8.0\TDE02.pdb
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\obj\Debug\net8.0\TDE02.genruntimeconfig.cache
+C:\Users\nara\Documents\aula 2°semestre C#\TDE02\obj\Debug\net8.0\ref\TDE02.dll
